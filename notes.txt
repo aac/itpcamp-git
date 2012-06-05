@@ -5,3 +5,4 @@
 - grep, diff, status
 - editor?
 - github
+- pull?

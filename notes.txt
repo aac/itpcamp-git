@@ -5,3 +5,5 @@
 - grep, diff, status
 - editor?
 - different change
+- github
+- pull?

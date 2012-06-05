@@ -2,3 +2,5 @@
 - Laptop?
 - Operating system distribution
 - Git experience
+- grep, diff, status
+- editor?
